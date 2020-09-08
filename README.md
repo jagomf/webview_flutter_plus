@@ -154,7 +154,7 @@ There are very minor API differences as following.
 webview_flutter          |webview_flutter_plus
 :-----------------------:|:---------------------------:
 `WebView`                |`WebViewPlus`
-`WebViewPlusController`  |`WebViewPlusController`
+`WebViewController`      |`WebViewPlusController`
 `WebViewCreatedCallback` |`WebViewPlusCreatedCallback`
 
 Rest everything is same as webview_flutter.
